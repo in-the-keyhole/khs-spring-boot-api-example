@@ -1,0 +1,37 @@
+server:
+  port: 8080
+
+endpoints:
+  restart:
+    enabled: true
+  shutdown:
+    enabled: true
+  health:
+    sensitive: false
+
+logging:
+  level:
+    ROOT: INFO
+    org.springframework.web: DEBUG
+    com.netflix.discovery: 'OFF'
+
+spring:
+  cloud:
+    bus:
+      enabled: false
+       
+api:
+  statistics:
+    name: apigateway
+    pattern-match: /api/.*
+    publish-url: https://demo.grokola.com/sherpa/api/stats/33
+    token: 6e8f1cc6-3c53-4ebe-b496-53f19fb7e10e 
+    
+swagger:
+  publish:
+    publish-url: https://demo.grokola.com/swagger/publish/14
+    security-token: 6e8f1cc6-3c53-4ebe-b496-53f19fb7e10e
+    swagger-url: http://127.0.0.1:${server.port}/v2/api-docs
+    
+    
+    
