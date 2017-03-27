@@ -22,9 +22,9 @@ spring:
        
 api:
   statistics:
-    name: apigateway
+    name: employeeapi
     pattern-match: /api/.*
-    publish-url: https://demo.grokola.com/sherpa/api/stats/33
+    publish-url: https://demo.grokola.com/sherpa/api/stats/41
     token: 6e8f1cc6-3c53-4ebe-b496-53f19fb7e10e 
     
 swagger:

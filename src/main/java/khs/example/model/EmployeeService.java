@@ -22,7 +22,7 @@ public class EmployeeService {
 		return repository.save(employee);
 	}
 	
-	public void remove(Employee employee) {
+	public void delete(Employee employee) {
 		repository.delete(employee);
 	}
 	
