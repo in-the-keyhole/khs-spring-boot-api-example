@@ -1,5 +1,5 @@
 # khs-spring-boot-api-example
-Spring Boot API Example with Spring Fox Swagger implementation and Swagger Publish and API Metrics Spring Boot starter configurations 
+Spring Boot API Example CRUD app using Spring MVC/DATA  with Spring Fox Swagger implementation and Swagger Publish and API Metrics Spring Boot starter configurations 
 
 Here are links to the Spring Boot frameworks utilized in the example implementation 
 
