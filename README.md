@@ -5,6 +5,9 @@ Here are links to the Spring Boot frameworks utilized in the example implementat
 
 [Spring Fox](https://github.com/springfox/springfox)
 
+[Swagger API auto Publish](https://github.com/in-the-keyhole/khs-spring-boot-publish-swagger-starter)
+
+[API Statistics](https://github.com/in-the-keyhole/khs-spring-boot-api-statistics-starter)
 
 ##Installation and running 
 
