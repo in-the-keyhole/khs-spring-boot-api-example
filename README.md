@@ -15,7 +15,7 @@ Clone repo
 
      $ git clone 
 
-Execute Java main method 
+Compile or import into IDE and execute Java main method 
 
      $ java khs.example.EmployeesApp.java
 
