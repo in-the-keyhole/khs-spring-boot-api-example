@@ -9,15 +9,15 @@ Here are links to the Spring Boot frameworks utilized in the example implementat
 
 [API Statistics](https://github.com/in-the-keyhole/khs-spring-boot-api-statistics-starter)
 
-##Installation and running 
+## Installation and running 
 
 1. Clone repo 
 
-  > git clone 
+  $ git clone 
 
 2. Execute Java main method 
 
-  > java khs.example.EmployeesApp.java
+  $ java khs.example.EmployeesApp.java
 
 3. Enter the following urls's in a browser 
 
