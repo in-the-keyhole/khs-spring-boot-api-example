@@ -11,15 +11,15 @@ Here are links to the Spring Boot frameworks utilized in the example implementat
 
 ## Installation and running 
 
-Clone repo 
+1. Clone repo 
 
      $ git clone 
 
-Execute Java main method 
+2. Execute Java main method 
 
      $ java khs.example.EmployeesApp.java
 
-Enter the following urls's in a browser 
+3. Enter the following urls's in a browser 
 
      http://localhost:8080/api/employess 
      http://localhost:8080/api/emnpoyees/1
